@@ -1,13 +1,20 @@
-# WELCOME TO PARALLAX INTERACTIVE GITHUB
-*noun
-'the effect whereby the position or direction of an object appears to differ when viewed from different positions, e.g. through the viewfinder and the lens of a camera.'*
+# WELCOME TO PRISMATIC INTERACTIVE GITHUB
+We're a passionate team of developers, artists, and designers dedicated to creating immersive gaming experiences that push the boundaries of imagination. Creators of the SUBJECT SERIES
 
-## Who are we?
-**Parallax Interactive** is a growing group of talented developers creating quality productions in a hobbyist environment. We are a community-driven group, with applications open to anyone. Activity and community engagement are a huge priority, so our journey is to share. Our team primarily works around the 6-month development phases, publishing story-rich games in different categories. We normally operate in hyper-realistic games targeted towards PC and Next-Generation consoles such as Xbox Series X and PlayStation 5.
+**The Beginning**
+We were originally founded in October 2022 with the idea of Subject 9. Subject 9 was to be a small, open-world game taking place in an abandoned nuclear power facility. The young protagonist was to be confused about why they were there, meeting many horrifying monstrosities in his attempt to escape. The game was originally to be created by a sole developer, who later founded Parallax Interactive.
 
-Occasionally, smaller productions are moved out of the way for much larger video games. The SUBJECT series is our next big production, which we will start once we have sufficient funding, team members, and community engagement. 
+**Growing the Vision**
+Through the coming months, the storyline of Subject 9 became deeper and more complex. Leading into the new year of 2023, the story grew past the ability of one developer. Here, the first members of the team were hired. From the beginning of 2023 to the next fall, the project expanded more and more. Finally, in September of 2023, real production began with the 3D modelers. The storyline for the game was well developed by this point and extremely unique.
 
-## What can I do here? #
-This is the most asked question we get. There is so much an individual can do. You could always become a paid member, which gives you many premium perks (https://discord.com/servers/parallax-interactive-1036739036427071498). Instead, simply being a part of our community on our Instagram or Discord is plenty! Participating in live events, giving feedback, making friends and any community action help us a ton. Of course, buying the games we make or publish helps us the most.
+**Development Phase**
+January of 2024 marked the beginning of the development portion. By this point, Flydog Games, a former name of Prismatic Interactive, had well over a dozen team members, some of whom took on multiple positions. Throughout this year, an obvious problem became apparent: Subject 9 became too large to handle for such a new team. In the fall of 2024, two major events happened. First, the complete redesign of Flydog Games, moving into a more mature environment under Parallax Interactive. Secondly, the project of Subject 9 was postponed, and our new priority shifted to building an awesome community with high-quality games behind our name.
 
-Additionally, you can join our team directly. More information and the interest form can be found on the Join Us page on our website (https://www.parallaxinteractive.info). Our application is very rigorous, but once you are in, the work and environment feel like a friend group, creating games as a combined hobby. 
+**Our Current Position**
+Our current position is described in four places: Team development, community growth, founding our LLC, and building a reputable name for said LLC. Team development has always been an issue for us, so creating smaller, successful games can draw more attention from experienced developers. Community growth is crucial in producing such a marketable and story-rich game. We see founding our LLC as necessary for tackling big projects like the SUBJECT series. Lastly, building a reputable name is the most important step, as it captures all the previously mentioned goals.
+
+
+**Our Official  Website:** https://www.prismaticinteractive.info/
+**Join Our Team:** https://www.prismaticinteractive.info/join-us
+**Official Blogs and Statements:** https://www.prismaticinteractive.info/blog/
+**Investors and Donors:** https://www.prismaticinteractive.store/
