@@ -14,7 +14,11 @@ January of 2024 marked the beginning of the development portion. By this point, 
 Our current position is described in four places: Team development, community growth, founding our LLC, and building a reputable name for said LLC. Team development has always been an issue for us, so creating smaller, successful games can draw more attention from experienced developers. Community growth is crucial in producing such a marketable and story-rich game. We see founding our LLC as necessary for tackling big projects like the SUBJECT series. Lastly, building a reputable name is the most important step, as it captures all the previously mentioned goals.
 
 
-**Our Official  Website:** https://www.prismaticinteractive.info/
-**Join Our Team:** https://www.prismaticinteractive.info/join-us
-**Official Blogs and Statements:** https://www.prismaticinteractive.info/blog/
-**Investors and Donors:** https://www.prismaticinteractive.store/
+### Our Official  Website:
+https://www.prismaticinteractive.info/
+### Join Our Team:
+https://www.prismaticinteractive.info/join-us
+### Official Blogs and Statements:
+https://www.prismaticinteractive.info/blog/
+### Investors and Donors:
+https://www.prismaticinteractive.store/
