@@ -47,6 +47,9 @@ If you want to help shape the future of Prismatic Interactive, hop into our Disc
 
 
 **Our Official  Website:** https://www.prismaticinteractive.com/
+
 **Join Our Team:** https://www.prismaticinteractive.com/join-us
+
 **Official Blogs and Statements:** https://www.prismaticinteractive.com/blog/
+
 **Investors and Donors:** https://www.prismaticinteractive.store/
