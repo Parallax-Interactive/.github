@@ -1,5 +1,5 @@
 *About Us*
-### Prismatic Interactive: Crafting Worlds, Building Community, Inspiring Imagination
+# Prismatic Interactive: Crafting Worlds, Building Community, Inspiring Imagination
 
 ## Who We Are 
 Prismatic Interactive is an indie game development studio with a big vision: to create immersive, story‑driven experiences that stay with you long after you have finished the game.
