@@ -1,24 +1,28 @@
-# WELCOME TO PRISMATIC INTERACTIVE GITHUB
-We're a passionate team of developers, artists, and designers dedicated to creating immersive gaming experiences that push the boundaries of imagination. Creators of the SUBJECT SERIES
+## About Us
+Prismatic Interactive: Crafting Worlds, Building Community, Inspiring Imagination
+## Who We Are
+Prismatic Interactive is an indie game development studio with a big vision: to create immersive, story‑driven experiences that stay with you long after you have finished the game.
+We are a team of passionate developers, artists, designers, writers, and storytellers who share the same belief: games are not just entertainment. They are places you can get lost in, emotions you can actually feel, and stories you can live through.
+Our mission is simple. We want to push the boundaries of imagination while building a community that grows right alongside our games. 
+## Our Story
+Prismatic Interactive began with a clear goal: build a studio and a project the right way, from the ground up.
+January 2025 marked the start of planning and pre‑production for our first official title, (name). Soon after, we began assembling a talented, global team of creators who shared our vision. 
+June 16, 2025, we held our official onboarding meeting; the true start of development. 
+September 10, 2025, we had officially formed Prismatic Interactive LLC, securing our foundation for the future.
+Our debut project, (name), is currently in development. It is designed to strengthen our team, grow our community, and establish the reputation we want to carry into every game we make.
+## Where We Are Now
+Everything we do is guided by our primary core ideas. We bring in talented creators from around the world and make sure they have a space where their ideas matter. We treat our players as partners, connecting with them through Discord, social media, and live events so the conversation is always open. We are building a reputation for quality, creativity, and care so that when our games come out, people already know it is worth their time.
+Our Discord server is the heart of it all; the first place for updates, sneak peeks, and the occasional “you did not hear this from me” dev leak.
+## Core Values
+Creative innovation: We are not afraid to try new ideas, mechanics, and ways of telling stories.
+Player‑centered: Listening closely and adapting based on what our community tells us.
+Narrative excellence: Crafting stories that stick with you and make you feel something.
+Transparency: Sharing the process, the wins, the setbacks, and everything in between. No stone will be left unturned.
+## Looking Ahead
+You can expect reels, dev screenshots, and progress snapshots for those who like short‑form updates. There will be story updates, Q&As, community highlights, and dev blogs for those who prefer to read longer updates. And for the big moments, we will have behind‑the‑scenes videos, cinematic trailers, and full studio showcases.
+Everything we do is guided by the same three things: transparency, quality, and keeping our community involved. If you are in Discord, you will probably see it there first, sometimes even before it is “official.”
+## Join Us
+We are always looking for passionate creators, whether you are a developer, artist, writer, designer, or something else entirely, from anywhere in the world.
+If you want to help shape the future of Prismatic Interactive, hop into our Discord, check out our open positions, or just reach out. Whether you are here to create, collaborate, or simply be part of the ride, there is a place for you in our story.
+We are building worlds worth remembering, and we want you to be part of the journey.
 
-## The Beginning
-We were originally founded in October 2022 with the idea of Subject 9. Subject 9 was to be a small, open-world game taking place in an abandoned nuclear power facility. The young protagonist was to be confused about why they were there, meeting many horrifying monstrosities in his attempt to escape. The game was originally to be created by a sole developer, who later founded Parallax Interactive.
-
-## Growing the Vision
-Through the coming months, the storyline of Subject 9 became deeper and more complex. Leading into the new year of 2023, the story grew past the ability of one developer. Here, the first members of the team were hired. From the beginning of 2023 to the next fall, the project expanded more and more. Finally, in September of 2023, real production began with the 3D modelers. The storyline for the game was well developed by this point and extremely unique.
-
-## Development Phase
-January of 2024 marked the beginning of the development portion. By this point, Flydog Games, a former name of Prismatic Interactive, had well over a dozen team members, some of whom took on multiple positions. Throughout this year, an obvious problem became apparent: Subject 9 became too large to handle for such a new team. In the fall of 2024, two major events happened. First, the complete redesign of Flydog Games, moving into a more mature environment under Parallax Interactive. Secondly, the project of Subject 9 was postponed, and our new priority shifted to building an awesome community with high-quality games behind our name.
-
-## Our Current Position
-Our current position is described in four places: Team development, community growth, founding our LLC, and building a reputable name for said LLC. Team development has always been an issue for us, so creating smaller, successful games can draw more attention from experienced developers. Community growth is crucial in producing such a marketable and story-rich game. We see founding our LLC as necessary for tackling big projects like the SUBJECT series. Lastly, building a reputable name is the most important step, as it captures all the previously mentioned goals.
-
-
-### Our Official  Website:
-https://www.prismaticinteractive.info/
-### Join Our Team:
-https://www.prismaticinteractive.info/join-us
-### Official Blogs and Statements:
-https://www.prismaticinteractive.info/blog/
-### Investors and Donors:
-https://www.prismaticinteractive.store/
