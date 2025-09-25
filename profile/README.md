@@ -24,8 +24,11 @@ Our Discord server is the heart of it all; the first place for updates, sneak pe
 
 ## Core Values 
 > **Creative innovation**: We are not afraid to try new ideas, mechanics, and ways of telling stories.
+
 > **Player‑centered**: Listening closely and adapting based on what our community tells us.
+
 > **Narrative excellence**: Crafting stories that stick with you and make you feel something.
+
 > **Transparency**: Sharing the process, the wins, the setbacks, and everything in between. No stone will be left unturned.
 
 ## Looking Ahead 
